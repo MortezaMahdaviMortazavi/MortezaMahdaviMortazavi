@@ -86,21 +86,12 @@ Feel free to reach out to me via these platforms:
     <a href="mailto:s.morteza.mahdavi.mortazavi@gmail.com">
         <img src="https://img.icons8.com/color/50/000000/gmail.png" width=32/>
     </a>
-    <a href="https://www.linkedin.com/in/your-linkedin">
-        <img src="https://img.icons8.com/color/50/000000/linkedin.png" width=32/>
-    </a>
     <a href="https://github.com/MortezaMahdaviMortazavi">
         <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width=32/>
     </a>
 </div>
 
----
 
-### 👀 **Profile Visitors**
-
-<p align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=MortezaMahdaviMortazavi/MortezaMahdaviMortazavi" alt="Profile Visitors"/>
-</p>
 
 ---
 
