@@ -1,6 +1,6 @@
 ## Hey, I'm Seyed Morteza Mahdavi! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Welcome to my GitHub profile! I'm a **Data Scientist and Machine Learning Engineer** with a passion for **Large Language Models (LLMs)**, **Reinforcement Learning**, and **scalable ML solutions**. I enjoy working on challenging problems and building tools that make an impact. Let’s connect and collaborate! 🚀
+Welcome to my GitHub profile! I'm a **Data Scientist and Machine Learning Engineer** with a passion for **Large Language Models (LLMs)**, and **scalable ML solutions**.
 
 ---
 
@@ -44,17 +44,6 @@ Welcome to my GitHub profile! I'm a **Data Scientist and Machine Learning Engine
 
 #### **Computer Vision Researcher** - SBU Computer Vision Lab (3 months)
 - Developed **image recognition and captioning models** using deep learning techniques.
-
----
-
-### 🚀 **Projects**
-
-- **LLMTuneEval**: Framework for **LLM training, fine-tuning, inference, and evaluation**.
-- **LLM-Evaluation**: Implemented **offline/online evaluation methods** for LLMs.
-- **GPT from Scratch**: Designed and trained a **simplified GPT model** from scratch.
-- **Image Retrieval**: Built an **efficient image matching and retrieval system**.
-- **Emotion & Sentiment Analysis**: Developed models for **emotion detection in text**.
-- **Image Captioning**: Created a model for **automatic image description**.
 
 ---
 
